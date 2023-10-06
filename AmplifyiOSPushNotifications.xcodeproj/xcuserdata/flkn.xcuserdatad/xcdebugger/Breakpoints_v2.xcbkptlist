@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6A47C246-FBD9-40BE-8C0D-8881BCE6250C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C46F6D1-54A5-4DCD-9238-CD84BAFD8F22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmplifyiOSPushNotifications/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "userNotificationCenter(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C46F6D1-54A5-4DCD-9238-CD84BAFD8F22 - dd3280711aed3d4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AmplifyiOSPushNotifications.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "AmplifyiOSPushNotifications"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/flkn/Desktop/AmplifyiOSPushNotifications/AmplifyiOSPushNotifications/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "1C46F6D1-54A5-4DCD-9238-CD84BAFD8F22 - fad92cc80e0b75e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for AmplifyiOSPushNotifications.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "AmplifyiOSPushNotifications"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/flkn/Desktop/AmplifyiOSPushNotifications/AmplifyiOSPushNotifications/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "1C46F6D1-54A5-4DCD-9238-CD84BAFD8F22 - 1e1cce6d800be14f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AmplifyiOSPushNotifications.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "AmplifyiOSPushNotifications"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/flkn/Desktop/AmplifyiOSPushNotifications/AmplifyiOSPushNotifications/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "1C46F6D1-54A5-4DCD-9238-CD84BAFD8F22 - c1ebd76c3d37074e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for AmplifyiOSPushNotifications.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse) async -&gt; ()"
+                  moduleName = "AmplifyiOSPushNotifications"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/flkn/Desktop/AmplifyiOSPushNotifications/AmplifyiOSPushNotifications/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9E5B45A-A1C2-4A0C-8585-14570FE3A9F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmplifyiOSPushNotifications/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "application(_:didReceiveRemoteNotification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9E5B45A-A1C2-4A0C-8585-14570FE3A9F5 - de9958e494e5652e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AmplifyiOSPushNotifications.AppDelegate.application(_: __C.UIApplication, didReceiveRemoteNotification: Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) async -&gt; __C.UIBackgroundFetchResult"
+                  moduleName = "AmplifyiOSPushNotifications"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/flkn/Desktop/AmplifyiOSPushNotifications/AmplifyiOSPushNotifications/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "C9E5B45A-A1C2-4A0C-8585-14570FE3A9F5 - da5fd7bf99978623"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for AmplifyiOSPushNotifications.AppDelegate.application(_: __C.UIApplication, didReceiveRemoteNotification: Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) async -&gt; __C.UIBackgroundFetchResult"
+                  moduleName = "AmplifyiOSPushNotifications"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/flkn/Desktop/AmplifyiOSPushNotifications/AmplifyiOSPushNotifications/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "C9E5B45A-A1C2-4A0C-8585-14570FE3A9F5 - dfaa0fc16a3c212c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AmplifyiOSPushNotifications.AppDelegate.application(_: __C.UIApplication, didReceiveRemoteNotification: Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) async -&gt; __C.UIBackgroundFetchResult"
+                  moduleName = "AmplifyiOSPushNotifications"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/flkn/Desktop/AmplifyiOSPushNotifications/AmplifyiOSPushNotifications/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "C9E5B45A-A1C2-4A0C-8585-14570FE3A9F5 - 5cc5582f5f2f432b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for AmplifyiOSPushNotifications.AppDelegate.application(_: __C.UIApplication, didReceiveRemoteNotification: Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) async -&gt; __C.UIBackgroundFetchResult"
+                  moduleName = "AmplifyiOSPushNotifications"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/flkn/Desktop/AmplifyiOSPushNotifications/AmplifyiOSPushNotifications/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

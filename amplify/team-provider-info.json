@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyiospush-dev-165653-authRole",
+      "UnauthRoleArn": "arn:aws:iam::812258505236:role/amplify-amplifyiospush-dev-165653-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::812258505236:role/amplify-amplifyiospush-dev-165653-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyiospush-dev-165653-deployment",
+      "UnauthRoleName": "amplify-amplifyiospush-dev-165653-unauthRole",
+      "StackName": "amplify-amplifyiospush-dev-165653",
+      "StackId": "arn:aws:cloudformation:us-east-2:812258505236:stack/amplify-amplifyiospush-dev-165653/510bd710-6309-11ee-82fb-06786e949a19",
+      "AmplifyAppId": "d1xs50ajkokkhy"
+    },
+    "categories": {
+      "auth": {
+        "amplifyiospush": {}
+      },
+      "analytics": {
+        "amplifyiospush": {},
+        "Pinpoint": {
+          "Name": "amplifyiospush-dev",
+          "Id": "6377cd4ccc074596a5efa0c3859f4a6f",
+          "Region": "us-east-2"
+        }
+      },
+      "notifications": {
+        "Pinpoint": {
+          "Name": "amplifyiospush-dev",
+          "Id": "6377cd4ccc074596a5efa0c3859f4a6f",
+          "Region": "us-east-2"
+        }
+      }
+    }
+  }
+}

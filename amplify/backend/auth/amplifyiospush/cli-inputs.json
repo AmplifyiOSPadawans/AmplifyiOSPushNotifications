@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "amplifyiospush_identitypool_7303e54b",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "amplifyiospush",
+    "sharedId": "7303e54b",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}
